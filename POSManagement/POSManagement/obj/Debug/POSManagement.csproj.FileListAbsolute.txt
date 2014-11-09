@@ -1,0 +1,12 @@
+c:\users\bitm-301-pc\documents\visual studio 2013\Projects\POSManagement\POSManagement\bin\Debug\POSManagement.exe.config
+c:\users\bitm-301-pc\documents\visual studio 2013\Projects\POSManagement\POSManagement\obj\Debug\POSManagement.csprojResolveAssemblyReference.cache
+c:\users\bitm-301-pc\documents\visual studio 2013\Projects\POSManagement\POSManagement\obj\Debug\POSManagement.POSUI.resources
+c:\users\bitm-301-pc\documents\visual studio 2013\Projects\POSManagement\POSManagement\obj\Debug\POSManagement.Properties.Resources.resources
+c:\users\bitm-301-pc\documents\visual studio 2013\Projects\POSManagement\POSManagement\obj\Debug\POSManagement.csproj.GenerateResource.Cache
+c:\users\bitm-301-pc\documents\visual studio 2013\Projects\POSManagement\POSManagement\bin\Debug\POSManagement.exe
+c:\users\bitm-301-pc\documents\visual studio 2013\Projects\POSManagement\POSManagement\bin\Debug\POSManagement.pdb
+c:\users\bitm-301-pc\documents\visual studio 2013\Projects\POSManagement\POSManagement\obj\Debug\POSManagement.exe
+c:\users\bitm-301-pc\documents\visual studio 2013\Projects\POSManagement\POSManagement\obj\Debug\POSManagement.pdb
+C:\Users\Mozaffar\Desktop\POSManagement\POSManagement\bin\Debug\POSManagement.exe.config
+C:\Users\Mozaffar\Desktop\POSManagement\POSManagement\obj\Debug\POSManagement.exe
+C:\Users\Mozaffar\Desktop\POSManagement\POSManagement\obj\Debug\POSManagement.pdb
